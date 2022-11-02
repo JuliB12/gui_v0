@@ -1,0 +1,8 @@
+prefix=/home/juli/vo_ws/install
+
+Name: gui_vo_node
+Description: Description of gui_vo_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
