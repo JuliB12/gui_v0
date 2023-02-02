@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>iconos1/maximize-2.svg</file>
+    <file>iconos1/minimize-2.svg</file>
+    <file>iconos1/info.svg</file>
+    <file>iconos1/eye2.svg</file>
+    <file>iconos1/folder.svg</file>
+    <file>iconos1/folder-minus.svg</file>
+    <file>iconos1/folder-plus.svg</file>
+    <file>iconos1/save.svg</file>
+    <file>iconos1/activity.svg</file>
+    <file>iconos1/eye.svg</file>
+    <file>iconos1/search.svg</file>
+    <file>iconos1/info.svg</file>
+    <file>iconos1/loader.svg</file>
+    <file>iconos1/settings.svg</file>
+    <file>iconos1/minus.svg</file>
+    <file>iconos1/square.svg</file>
+    <file>iconos1/alert-circle.svg</file>
+    <file>iconos1/align-justify.svg</file>
+    <file>iconos1/archive.svg</file>
+    <file>iconos1/arrow-down.svg</file>
+    <file>iconos1/arrow-up-circle.svg</file>
+    <file>iconos1/bell.svg</file>
+    <file>iconos1/bell-off.svg</file>
+    <file>iconos1/grid.svg</file>
+    <file>iconos1/hard-drive.svg</file>
+    <file>iconos1/image.svg</file>
+    <file>iconos1/info.svg</file>
+    <file>iconos1/octagon.svg</file>
+    <file>iconos1/pause.svg</file>
+    <file>iconos1/play.svg</file>
+    <file>iconos1/save.svg</file>
+    <file>iconos1/skip-back (1).svg</file>
+    <file>iconos1/skip-forward.svg</file>
+    <file>iconos1/trash-2.svg</file>
+    <file>iconos1/x.svg</file>
+    <file>iconos1/x-circle.svg</file>
+  </qresource>
+</RCC>

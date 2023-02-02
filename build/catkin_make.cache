@@ -1,2 +1,0 @@
-TG2C1/camera_node:TG2C1/libviso2:TG2C1/viso2:TG2C1/viso2_ros:TG2C1/vo_ros:gui_vo_node
--DCATKIN_DEVEL_PREFIX=/home/juli/vo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/juli/vo_ws/install -G Unix Makefiles

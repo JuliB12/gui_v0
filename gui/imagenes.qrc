@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>imagenes1/fondo bolita.png</file>
+    <file>imagenes1/logo psi.png</file>
+    <file>imagenes1/logo uv.png</file>
+    <file>imagenes1/Recurso 1.png</file>
+  </qresource>
+</RCC>

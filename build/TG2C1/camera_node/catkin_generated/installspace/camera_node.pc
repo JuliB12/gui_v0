@@ -1,8 +1,0 @@
-prefix=/home/juli/vo_ws/install
-
-Name: camera_node
-Description: Description of camera_node
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lcamera_node
-Requires: roscpp sensor_msgs std_msgs libviso2
