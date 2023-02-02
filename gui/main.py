@@ -1,11 +1,6 @@
 from gui_v1 import *
 from playsound import playsound
-from tkinter import *
-from tkinter import filedialog
 
-def openFile():
-    filepath = filedialog.askopenfilename()
-    print (filepath)
 
 
 #se hereda de la clase Ui_MainWindow #setupUI se encarga de generar la interfaz
